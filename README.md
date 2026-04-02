@@ -7,9 +7,9 @@ Full-stack web application combining subscription, golf score tracking, monthly 
 ## 📂 Project Structure
 golf-charity-platform/
 │
-├── client/ # Frontend (React - Vite)
-├── server/ # Backend (Node + Express)
-├── docs/ # PRD, notes
+├── client/        # Frontend (React - Vite)
+├── server/        # Backend (Node + Express)
+├── docs/          # PRD, notes
 │
 ├── .env
 ├── .gitignore
